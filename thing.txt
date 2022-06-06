@@ -1,0 +1,10 @@
+Rex
+Josaphat
+10 west Elm
+chicago
+IL
+60610
+
+api key:OWM
+1.beaae2dd3ab0e89755e44bbd9a6dd7c0
+2.api.openweathermap.org/data/2.5/forecast?q={city name},{state code},{country code}&appid={your api key}
